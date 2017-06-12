@@ -1,0 +1,34 @@
+#top{
+	width: 1255px;
+	height: 61px;
+	margin: 0px auto;
+}
+#title{
+	width: 1255px;
+	height: 35px;
+	text-align: center;
+	font-weight: 500;
+	font-size: 25px;
+}
+#admin{
+	width: 1255px;
+	height: 20px;
+	text-align: right;
+}
+#global{
+	width: 1255px;
+	height: 517px;
+	background-image: url(../img/map.png);
+	margin: 5px auto;
+}
+#acceptable{
+	position: absolute;
+	left: 744px;
+	top: 522px;
+	width: 100px;
+	height: 25px;
+	background-image: url(../img/acceptable.png);
+}
+a{
+	text-decoration: none;
+}
